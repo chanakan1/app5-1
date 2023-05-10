@@ -1,0 +1,17 @@
+.nav{
+ background-color: brown;
+ padding: 7px;
+ text-align: center;
+}
+.menu {
+color: rgb(43, 226, 134);
+text-emphasis: none;
+padding: 2px 5px;
+
+}
+.active_menu{
+    color: chartreuse;
+    background-color: aqua;
+    text-emphasis: none;
+    padding: 2px 5px;
+}
